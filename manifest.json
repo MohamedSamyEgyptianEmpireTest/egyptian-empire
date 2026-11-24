@@ -1,0 +1,21 @@
+{
+  "name": "إمبراطورية الأعمال المصرية",
+  "short_name": "إمبراطورية مصر",
+  "start_url": "./egyptian_empire.html",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#d4af37",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/d4af37/0a1628?text=EG",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/d4af37/0a1628?text=EG",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
